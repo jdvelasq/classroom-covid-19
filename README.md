@@ -49,7 +49,7 @@ Los requerimientos del sistema son los siguientes:
 
 El producto de datos debe contener información sobre los pasos de la metodología empleada, explicando las distintas fases. Recuerde que debe ganar la confianza de las personas que usarán los resultados del modelo.
 
-## Entrega
+## Entrega
 
 El repo debe contener el producto desarrollado.
 
